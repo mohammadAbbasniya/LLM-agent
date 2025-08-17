@@ -13,3 +13,10 @@ Core parts:
 
   
 The **goal** was to explore how prompting and architecture influence results and compare the performance of different approaches.
+
+<br>
+<br>
+
+---
+
+_Completing this notebook was part of the System 2 AI course ([sut-system2](https://sut-system2.github.io/)) I passed during my Master's program._
